@@ -1,10 +1,10 @@
 # StreamShapers
 
-Welcome to the official GitHub repository of StreamShapers. StreamShapers is dedicated to providing comprehensive tutorials, tools, and resources to help enthusiasts and professionals alike in creating stunning animations and effectively using them in various broadcasting mediums.
+Welcome to the official GitHub of StreamShapers. StreamShapers is dedicated to providing comprehensive tutorials, tools, and resources to help enthusiasts and professionals alike in creating real-time graphics and effectively using them in various broadcasting mediums.
 
 ## Features
 
-- **Converter Tool**: A unique, currently free converter tool that transforms Lottie animations into CasparCG templates, offering extensive options for analyzing and customizing your animations.
+- **Converter Tool**: A free and open source converter tool that transforms Lottie animations into HTML-Templates for CasparCG, offering options for analyzing and customizing your animations.
 - **Community**: Join our community. Share your work, get feedback, and collaborate on projects.
 
 ## Getting Started
@@ -23,4 +23,4 @@ Need help? Check out our [Discord](https://discord.gg/zakVF6QVcv) or reach out t
 
 
 
-Thank you for visiting StreamShapers - Let's shape your streams into reality!
+Thank you for visiting StreamShapers - Let's shape your streams!
