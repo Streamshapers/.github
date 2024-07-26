@@ -12,6 +12,7 @@ Welcome to the official GitHub of StreamShapers. StreamShapers is dedicated to p
 To get started with StreamShapers, follow these simple steps:
 
 1. **Try StreamShapers Ferryman**: Access [StreamShapers Ferryman](https://ferryman.streamshapers.com) to turn your animations into broadcast-ready HTML graphic templates.
+2. **Read our Tutorials**: Read our Tutorials at [StreamShapers.com](https://streamshapers.com) to learn more broadcast-ready HTML graphic templates, Streamshapers Ferryman and CasparCG.
 
 ## Contributing
 
